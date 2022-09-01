@@ -11,13 +11,13 @@ const Footer = () => {
                 <div className="col-4 text-end">
                     {/* <div className="row text-end"> */}
                         {/* <div className="col"> */}
-                            <a target='_blank' className='me-3 align-items-start' href='mailto:yoddi.dahsyat@gmail.com'><i className="bi bi-envelope link-dark" ></i></a>
+                            <a target='_blank' rel="noreferrer" className='me-3 align-items-start' href='mailto:yoddi.dahsyat@gmail.com'><i className="bi bi-envelope link-dark" ></i></a>
                         {/* </div> */}
                         {/* <div className="col"> */}
-                            <a target='_blank' className='me-3' href='https://wa.me/6285157667536'><i className="bi bi-whatsapp link-dark"></i></a>
+                            <a target='_blank' rel="noreferrer" className='me-3' href='https://wa.me/6285157667536'><i className="bi bi-whatsapp link-dark"></i></a>
                         {/* </div> */}
                         {/* <div className="col"> */}
-                            <a target='_blank' className='' href='https://linkedin.com/in/yoddidahsyat'><i className="bi bi-linkedin link-dark"></i></a>
+                            <a target='_blank' rel="noreferrer" className='' href='https://linkedin.com/in/yoddidahsyat'><i className="bi bi-linkedin link-dark"></i></a>
                         {/* </div> */}
                     {/* </div> */}
                 </div>

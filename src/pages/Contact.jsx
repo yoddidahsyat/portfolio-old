@@ -12,15 +12,15 @@ const Contact = () => {
           <div className="col-md">
             <div className="row text-center">
               <div className="col">
-                <a target='_blank' href='mailto:yoddi.dahsyat@gmail.com'><i className="bi bi-envelope link-dark" style={{ fontSize: 80 }}></i></a>
+                <a target='_blank' rel="noreferrer" href='mailto:yoddi.dahsyat@gmail.com'><i className="bi bi-envelope link-dark" style={{ fontSize: 80 }}></i></a>
                 <div className='text-dark'>email</div>
               </div>
               <div className="col">
-                <a target='_blank' href='https://wa.me/6285157667536'><i className="bi bi-whatsapp link-dark" style={{ fontSize: 80 }}></i></a>
+                <a target='_blank' rel="noreferrer" href='https://wa.me/6285157667536'><i className="bi bi-whatsapp link-dark" style={{ fontSize: 80 }}></i></a>
                 <div className='text-dark'>whatsapp</div>
               </div>
               <div className="col">
-                <a target='_blank' href='https://linkedin.com/in/yoddidahsyat'><i className="bi bi-linkedin link-dark" style={{ fontSize: 80 }}></i></a>
+                <a target='_blank' rel="noreferrer" href='https://linkedin.com/in/yoddidahsyat'><i className="bi bi-linkedin link-dark" style={{ fontSize: 80 }}></i></a>
                 <div className='text-dark'>linkedin</div>
               </div>
             </div>
