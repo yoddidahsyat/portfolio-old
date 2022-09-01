@@ -8,7 +8,7 @@ const Home = () => {
       <div className="row vh-100 align-items-center">
         <div className='col'>
           <div className="col-6 ms-auto">
-            <img src={profile} className='img-fluid' />
+            <img src={profile} alt='yoddi dahsyat' className='img-fluid' />
           </div>
         </div>
         <div className='col'>
