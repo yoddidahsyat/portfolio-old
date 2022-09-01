@@ -34,10 +34,10 @@ const Projects = () => {
         </Modal.Header>
         <Modal.Body>
           <div className="row">
-            <div className="col">
+            <div className="col-md">
               <img src={waysbucks} className="img-fluid my-3 border" alt="waysbucks" />
             </div>
-            <div className="col">
+            <div className="col-md">
               <img src={waysbucksMenu} className="img-fluid my-3 border" alt="waysbucks" />
             </div>
           </div>

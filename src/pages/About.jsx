@@ -62,7 +62,7 @@ const About = () => {
         <div className="row mt-4">
           <div className="col-md-2" />
           <div className="col-4 text-end">
-            <h5>Training/Course</h5>
+            <h5 className="text-break">Training/Course</h5>
           </div>
           <div className="col">
             <div className="row">
