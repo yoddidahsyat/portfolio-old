@@ -13,7 +13,7 @@ const About = () => {
           </div>
           <h1 className='my-3'>About me</h1>
           <p>I am 24 years old, currently live in Purbalingga, Central Java, Indonesia. I am a full stack web developer with great problem solving skills and a good sense of design. I have more than 1 year of experience working as a fullstack and frontend developer.</p>
-          <Button variant='dark' href='/CV%20-%20Mohammad%20Yoddi%20Dahsyat.pdf' target='_blank' >Download CV</Button>
+          <Button variant='dark' href='/CV%20-%20Mohammad%20Yoddi%20Dahsyat.pdf' target='_blank' >Download Resume</Button>
         </div>
       </div>
       <div className="row py-4">

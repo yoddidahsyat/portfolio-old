@@ -5,7 +5,7 @@ import profile from '../assets/images/profile-sm.jpg'
 const Navbar = () => {
   const [navbarClass, setNavbarClass] = useState('navbar-light')
   window.onscroll = () => {
-    setNavbarClass((document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) ? 'navbar-dark bg-dark' : 'navbar-light')
+    setNavbarClass((document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) ? 'navbar-dark bg-dark' : 'navbar-light bg-white')
   }
   
   return (

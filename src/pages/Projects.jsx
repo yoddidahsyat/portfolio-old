@@ -10,7 +10,8 @@ const Projects = () => {
   const handleShow = () => setShow(true);
   return (
     <div className='container'>
-      <div className="row vh-100 align-items-center">
+      <div className="row vh-100 align-items-center pt-4">
+        <div className="col">
         <div className="row align-items-center">
           <div className="col-md-4">
             <h1 className='text-center'>Selected Projects</h1>
@@ -25,6 +26,7 @@ const Projects = () => {
                 </div>
               </div>
             </div>
+          </div>
           </div>
         </div>
       </div>
