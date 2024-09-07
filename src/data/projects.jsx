@@ -26,17 +26,17 @@ const projects = [
             </ul>
         </div>
     },
-    {
-        id: 2,
-        title: "To Do List",
-        images: ["/images/todolist-home1.png","/images/todolist-home2.png", "/images/todolist-detail.png", "/images/todolist-add.png"],
-        stack: ["ReactJs", "Bootstrap"],
-        repository: "https://github.com/yoddidahsyat/to-do-list",
-        link: "https://yoddi-todolist-devcode.netlify.app/",
-        description: <div>
-            <p>This is a simple frontend project case from gethired.id. The backend APIs and the UI designs are already given by the gethired team. In this app user can manage activity groups, add, delete, edit, and check their to-do list.</p>
-        </div>
-    }
+    // {
+    //     id: 2,
+    //     title: "To Do List",
+    //     images: ["/images/todolist-home1.png","/images/todolist-home2.png", "/images/todolist-detail.png", "/images/todolist-add.png"],
+    //     stack: ["ReactJs", "Bootstrap"],
+    //     repository: "https://github.com/yoddidahsyat/to-do-list",
+    //     link: "https://yoddi-todolist-devcode.netlify.app/",
+    //     description: <div>
+    //         <p>This is a simple frontend project case from gethired.id. The backend APIs and the UI designs are already given by the gethired team. In this app user can manage activity groups, add, delete, edit, and check their to-do list.</p>
+    //     </div>
+    // }
 ]
 
 export default projects
